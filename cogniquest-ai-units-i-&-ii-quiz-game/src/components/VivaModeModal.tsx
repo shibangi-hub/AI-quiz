@@ -85,7 +85,7 @@ export const VivaModeModal: React.FC<VivaModeModalProps> = ({
               <input
                 type="text"
                 required
-                placeholder="e.g. Kaustav Banerjee"
+                placeholder="e.g. Shibangi Chowdhury"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
                 className="w-full bg-slate-950 border border-slate-800 rounded-xl px-3.5 py-2.5 text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-sky-500"
@@ -99,7 +99,7 @@ export const VivaModeModal: React.FC<VivaModeModalProps> = ({
                 </label>
                 <input
                   type="text"
-                  placeholder="e.g. 2347101"
+                  placeholder="e.g. 2441460"
                   value={registerNumber}
                   onChange={(e) => setRegisterNumber(e.target.value)}
                   className="w-full bg-slate-950 border border-slate-800 rounded-xl px-3.5 py-2.5 text-sm text-slate-100 placeholder-slate-500 focus:outline-none focus:border-sky-500"
