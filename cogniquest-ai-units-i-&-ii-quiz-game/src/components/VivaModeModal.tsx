@@ -47,7 +47,7 @@ export const VivaModeModal: React.FC<VivaModeModalProps> = ({
                 Classroom Viva Examination Mode
               </h3>
               <p className="text-xs text-slate-400">
-                DSC401-6 Units I & II · 25 Maximum Marks
+                DSC401-6 Units I & II
               </p>
             </div>
           </div>
