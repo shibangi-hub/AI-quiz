@@ -1,0 +1,6 @@
+{
+  "name": "CogniQuest AI - Units I & II Quiz Game",
+  "description": "Comprehensive interactive Artificial Intelligence quiz game covering Christ University Units I & II (Agents, Search Algorithms, Heuristics, CSP, MEA) with 60+ questions, Viva Mode, interactive visual state-space problems, AI lifelines, and viva reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
